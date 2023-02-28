@@ -1,0 +1,143 @@
+Elmore:
+Name of company (insured)
+Address of registered or principal office
+Any ‘Associated’ or ‘Sister’ Companies? (Yes/No)
+Primary website domain / URL
+Date of establishment
+Please provide a full description of your business activities and detail if there are any anticipated changes to the activities in the next 12 months
+If the company has been established for less than 3 years, can you confirm that one or more of the Directors has at least 3 years’ experience in the relevant industry? (Yes/No)
+Please attach CVs of Directors
+Please confirm your total number of employees
+Is the company authorised and regulated by the Financial Conduct Authority?
+Is the company authorised and regulated by any other regulator?
+Please provide annual financial details for the past year, current year and the projected income for the next financial year.
+Please confirm geographical split of fee income/turnover by client / customer base
+If you have entered a Rest of the World number, please list applicable countries below
+Do you use a standard form of contract, agreement or letter of appointment with regard to services performed?
+Do you engage in business to business (B2B) contracts? (Yes / No) (Show optional when yes)
+Please list the five largest contracts undertaken during the last 3 years
+Do your standard delivery / contract terms: accept liability for consequential or indirect losses? (Yes/No)
+Do your standard delivery / contract terms: accept liability for financial damages greater than the value of contract? (Yes/No)
+Do your standard delivery / contract terms: include any form of liquidated damages? (Yes/No)
+Do your standard delivery / contract terms: warrant a performance standard greater than reasonable care and skill? (Yes/No)
+Do your standard delivery / contract terms: provide for an unlimited warranty period? (Yes/No)
+Do your standard delivery / contract terms: allow for changes to the scope of work without a written variation of contract? (Yes/No)
+Do your standard delivery / contract terms: provide indemnities to your clients (other than for liability for intellectual property rights, death, bodily injury, and/or property damage)? (Yes/No)
+If YES to any of the above, please provide more details below:
+Do you engage in business to consumer (B2C) contracts? (Yes / No) (Show optional when yes)
+What is the largest value per transaction during the last 12 months? Please include currency
+What is the average value per transaction during the last 12 months? Please include currency
+Do you maintain an independent annual audit of your business functions including IT? (Yes/No)
+Are all publications and online material issued by the company reviewed by an in-house legal department and/or outside legal advisers? (Yes/No)
+Customer profile/description of Customer/User?
+Regions of Customer/User are based/domiciled?
+Current number of users?
+Expected number of users in 12 months?
+Overview of technology infrastructure being used?
+Type of Regulatory Licenses being used?
+Are AISP/PISP activities being provided? (Yes/No)
+Are any crypto activities being offered? (Yes/No)
+Financial Crime Process in place? (Yes/No)
+Anti-Money Laundering (AML) Process in place? (Yes/No)
+Treating Customer Fairly (TCF) Process in place? (Yes/No)
+Expected 12 months Value of Transactions? Please include currency
+Expected 12 months number of Transactions?
+Expected Average Transaction Size? Please include currency
+Details of funding to-date/planned?
+How many personally identifiable information (PII) records or unique consumer records does the company currently hold (including employees)?
+How many personally identifiable information (PII) records or unique consumer records does the company expect to hold in 12 months (including employees)?
+Does the company hold or process any of the following types of sensitive data? - Financial information (including credit/debit card records), - Medical information - Identity information (including NI number or passport details) - Names, addresses, telephone numbers
+Have a dedicated individual responsible for information security and privacy (Yes/No)
+Have a written incident management response plan (Yes/No)
+Perform background checks on all employees and contractors with access to sensitive data (Yes/No)
+Have restricted access to sensitive data (including physical records) (Yes/No)
+Have a process to delete systems access within 48 hours after employee termination (Yes/No)
+Have written information security policies and procedures that are reviewed annually and communicated to all employees including information security awareness training (Yes/No)
+Ensure all remote access to IT systems is secure (Yes/No)
+Only use operating systems that continue to be supported by the original provider (Yes/No)
+You use anti-virus, anti-spyware and anti-malware software and update them regularly (Yes/No)
+You use firewalls and other security applications between the internet and sensitive data (Yes/No)
+You use intrusion detection or intrusion prevention systems (IDS/IPS) and these are monitored (Yes/No)
+You ensure all sensitive data on your system is encrypted (Yes/No)
+You ensure all sensitive data on all removable media is encrypted (Yes/No)
+You ensure sensitive data is permanently removed (e.g. physical destruction not merely deleting) from hard drives and other storage media and paper records are shredded or confidentially disposed of (Yes/No)
+You perform regular backups and periodically monitor the quality of the backups (Yes/No)
+If NO to any of the above, please detail below along with mitigating comments
+Do you have a disaster recovery plan (DRP) and/or business continuity plan (BCP) in place?
+In your DRP / BCP, how long would it take for you to be fully operational again following an incident?
+How often do you test your DRP / BCP?
+Please state whether the following services are undertaken in house or outsourced to a 3rd party. If outsourced, please name vendor below.
+If more than one Company is being covered by this policy, Do they utilise different vendors for these services? (Yes / No) (Show optional when yes)
+Company name
+Please provide details of the vendors for the following services: (or enter "Y" in "In-house" column if it is managed and operated in-house)
+Do you authenticate inbound email using tools such as DMARC (Domain-Based Message Authentication)? (Yes/No)
+Do you scan and filter inbound emails for malicious content (such as executable files)? (Yes/No)
+Do you train end users against phishing and social engineering threats via ongoing campaigns and assessments? (Yes/No)
+Does your Incident Response Plan reference mitigation steps for business continuity and recovery should a ransomware incident occur? (Yes/No)
+Do you take regular backups of critical data? (Yes/No)
+Do you keep backups offline and segmented from your network? (Yes/No)
+Is the integrity of these backups and your recovery plans regularly tested? (Yes/No)
+Do you enforce a BYOD (Bring Your Own Device) policy that ensures critical data is encrypted when transferred to portable media devices (USBs, Laptops etc)? (Yes/No)
+If NO to any of the above, please detail below along with mitigating comments
+Please outline any additional controls your organisation has in place to mitigate the threat of ransomware attacks (e.g. endpoint detection tools, tagging of external emails, use of unique credentials):
+No claims (successful or otherwise) have been made against or have been threatened to made against: the company or any of its predecessors in respect to any negligence, breach of duty of care, infringement of any intellectual property right, libel or slander, dishonesty of any employee or to any other act, error or omission that that has or might have given rise to a claim? (Yes/No)
+No claims (successful or otherwise) have been made against or have been threatened to made against: any director, partner or officer in respect to any wrongful act committed by them whilst acting in such capacity? (Yes/No)
+In the last 5 years the company or any director/employee has not been subject to any regulatory investigation? (Yes/No)
+The company has not suffered from any attempt, successful or otherwise: to steal any money, financial instruments or any other asset that it either owns or for which it is legally responsible. (Yes/No)
+The company has not suffered from any attempt, successful or otherwise: of extortion against it by a threat to commit a theft, cyber-attack or other malicious or criminal event. (Yes/No)
+The company has not received complaints, whether oral or in writing, regarding its services performed, products or solutions sold or provided, or advice given? (Yes/No)
+The company has not been adversely affected by or suffered any loss from any: privacy breach, virus, distributed denial of service (DDOS), telephone phreaking or hacking incident? (Yes/No)
+The company has not been adversely affected by or suffered any loss from any: unforeseen down time to its website or IT network of more than 3 hours? (Yes/No)
+You are not aware of any circumstance or problem that might in the future give rise to a claim against or a loss for the company or any of its directors, officers or partners that is covered under the proposed insurance policy? (Yes/No)
+If NO to any of the above, please provide full details:
+Insurance details
+
+
+CybeAware:
+Name of company (insured
+Address of registered or principal office
+Website
+Date of establishment
+Please provide a full description of your business activities and detail if there are any anticipated changes to the activities in the next 12 months
+Number of employees
+Is the company authorised and regulated by the Financial Conduct Authority?
+Is the company authorised and regulated by any other regulator?
+Please provide annual financial details for the past year, current year and the projected income for the next financial year.
+Please confirm geographical split of fee income/turnover by client/customer base
+If you have entered a Rest of the World number, please list applicable countries below
+Do you use a standard form of contract, agreement or letter of appointment with regard to services performed?
+Do you maintain an independent annual audit of your business functions including IT?
+How many personally identifiable information (PII) records or unique consumer records does the company currently hold (including employees)?
+Does the company hold or process any of the following types of sensitive data? Financial information (including credit/debit card records) Medical information, Identity information (including NI number or passport details), Names, addresses telephone numbers
+Have a dedicated individual responsible for information security and privacy
+Have a written incident management response plan
+Perform background checks on all employees and contractors with access to sensitive data
+Have restricted access to sensitive data (including physical records)
+Have a process to delete systems access within 48 hours after employee termination
+Have written information security policies and procedures that are reviewed annually and communicated to all employees including information security awareness training
+Ensure all remote access to IT systems is secure
+Only use operating systems that continue to be supported by the original provider
+You use anti-virus, anti-spyware and anti-malware software and update them regularly?
+You use firewalls and other security applications between the internet and sensitive data
+You use intrusion detection or intrusion prevention systems (IDS/IPS) and these are monitored
+All electronic payments and sensitive data (including bank/credit card details) are encrypted?
+You ensure all sensitive data on all removable media is encrypted
+You ensure all sensitive data on your system is encrypted
+You ensure sensitive data is permanently removed (e.g. physical destruction not merely deleting) from hard drives and other storage media and paper records are shredded or confidentially disposed of
+You perform regular backups and periodically monitor the quality of the backups
+Do you have a disaster recovery plan (DRP) and/or business continuity plan (BCP) in place?
+In your DRP / BCP, how long would it take for you to be fully operational again following an incident?
+How often do you test your DRP / BCP?
+Please provide details of the vendors for the following services (or check box if it is managed and operated in-house)
+After having made full enquiries, including of all directors, partners and principals, can you confirm that: No claims (successful or otherwise) have been made against or have been threatened to made against
+After having made full enquiries, including of all directors, partners and principals, can you confirm that: The company or any of its predecessors in respect to any negligence, breach of duty of care, infringement of any intellectual property right, libel or slander, dishonesty of any employee or to any other act, error or omission that that has or might have given rise to a claim?
+After having made full enquiries, including of all directors, partners and principals, can you confirm that: Any director, partner or officer in respect to any wrongful act committed by them whilst acting in such capacity?
+After having made full enquiries, including of all directors, partners and principals, You are not aware of any circumstance or problem that might in the future give rise to a claim against or a loss for the company or any of its directors, officers or partners that is covered under the proposed insurance policy?
+Payments to customers are only made to customer bank accounts as recorded on the company's systems?
+Prior to amending personal details (including bank account details) in your records, secondary confirmation is obtained from customers via a source different from the original communication and evidential proof of such changes is obtained?
+Customers can only access their accounts on your systems via a password
+You use anti-virus, anti-spyware and anti-malware software and update them regularly
+You use firewalls and other security applications between the internet and sensitive data
+You use intrusion detection or intrusion prevention systems (IDS/IPS) and these are monitored
+If NO to any of the above, please detail below along with mitigating comments
+
